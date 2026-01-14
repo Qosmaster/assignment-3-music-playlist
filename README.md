@@ -84,3 +84,7 @@ Fetching data from the database
 
 This project helped me understand how object-oriented principles work together with JDBC and layered architecture.
 I learned how to use abstract classes, repositories, services, and custom exceptions in a real application.
+
+## Note
+This project demonstrates a console-based REST-like API as required by the assignment.
+No web framework was used.
